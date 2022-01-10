@@ -7,6 +7,7 @@ Link : https://devchallenge.com.br/challenges/5f14fad2130a5d78f89d9642/details <
 Link de acesso ao index do site : https://gfabrici0.github.io/Challenger_1/
 
 <br>
+
 ### Imagem de base desktop
 <img style=" width: 720px ; height: 1190px" src="https://user-images.githubusercontent.com/95265635/148714270-3087a741-f10f-41d1-b801-5378d2e9edc4.png">
 
