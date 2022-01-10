@@ -17,11 +17,9 @@ Link de acesso ao index do site : https://gfabrici0.github.io/Challenger/
 <img src="https://user-images.githubusercontent.com/95265635/148714274-00b778a6-a1db-4377-bcde-d092afe082c4.png">
 
 ### Resultado que eu obtive na menor versão mobile
-![Opera Instantâneo_2022-01-10_000818_127 0 0 1](https://user-images.githubusercontent.com/95265635/148714598-83693950-7849-4be6-9086-3b9c5e6c789a.png)
+![Opera Instantâneo_2022-01-10_095845_127 0 0 1](https://user-images.githubusercontent.com/95265635/148770281-0aa3f4f6-e35e-4352-a786-14377fbe0498.png)
 
 <br>
 
 ### Resultado que eu obtive no desktop
-![screencapture-127-0-0-1-5500-Challenger-index-html-2022-01-10-00_06_48](https://user-images.githubusercontent.com/95265635/148714605-d283a7ac-aaea-43c0-99e5-ad3be8e3c67f.png)
-
-
+![screencapture-127-0-0-1-5500-Challenger-index-html-2022-01-10-10_00_27](https://user-images.githubusercontent.com/95265635/148770262-2bfd3353-2b8d-4e4a-b9b2-28f68bd7136a.png)
