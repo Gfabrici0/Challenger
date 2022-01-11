@@ -208,12 +208,6 @@ footer ul li{
         border-right: none; 
     }
 
-    .footer_input:focus, textarea:focus{
-        border: 2px solid #a09e9e;
-        border-right: none;
-        outline: none;
-    }
-
     .footer_input_2{
         padding: 9px 20px;
         border-radius: 0 5px 5px 0;
@@ -228,6 +222,12 @@ footer ul li{
     .footer_input{
         padding: 10px 30px;
     }
+    
+    .footer_input:focus, textarea:focus{
+        border: 2px solid #a09e9e;
+        border-right: none;
+        outline: none;
+    }
 
     input::placeholder{
         padding-left: 0;
@@ -238,6 +238,5 @@ footer ul li{
     .header_nav i{
         font-size: 20px;
         margin-right: 30px;
-    }
-    
+    }    
 }
